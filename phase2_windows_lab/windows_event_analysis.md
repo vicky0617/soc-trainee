@@ -8,3 +8,17 @@ failed login details from event viewer.
 
 
 "A SOC analyst sees many 4625 events – a cluster of them from the same IP might indicate a brute force attack".
+
+[logs.md](https://github.com/user-attachments/files/28467415/logs.md)
+|Field|4624 (Success)|4625 (Failure)|
+|-|-|-|
+|Level|Information|Failure Audit|
+|Status|0x00000000 (success)|0xC000006D (bad password)|
+|Source Network Address|sometimes IP|							often blank for local|
+|Process Name|C:\\Windows...	-|-|
+
+
+
+&#x09;
+
+
