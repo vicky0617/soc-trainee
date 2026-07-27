@@ -15,3 +15,14 @@ here I overwrite the instructions that set to the AI.
 
 
 ## <img width="769" height="297" alt="Screenshot 2026-07-23 233014" src="https://github.com/user-attachments/assets/156807fc-4fbd-4e69-a4e0-19d8b6197b0c" />
+
+
+
+
+
+
+
+
+
+
+<img width="1017" height="389" alt="Screenshot 2026-07-27 134850" src="https://github.com/user-attachments/assets/b0134962-3efd-4b63-b786-c93b3407e0a3" />
